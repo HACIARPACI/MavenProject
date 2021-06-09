@@ -1,1 +1,3 @@
 added directly from Github.com to simulate 
+
+doing more work and  trying to pulll işt to local repo finally
